@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Main</p>
+<p align="left">Efficient</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Basic</p>
+<p align="left">Fundamental</p>
 
 ###
 
